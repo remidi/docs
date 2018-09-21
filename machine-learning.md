@@ -8,4 +8,4 @@ fraudulant cases (negative)
 flase positives.
 + Approaches: sampling, cost function, SMOTE
 
-... References : http://www.chioka.in/class-imbalance-problem/
+...References : http://www.chioka.in/class-imbalance-problem/
