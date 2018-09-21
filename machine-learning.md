@@ -9,4 +9,5 @@ flase positives.
 + Approaches: sampling, cost function, SMOTE
 
 1. References : 
-...http://www.chioka.in/class-imbalance-problem/
+.http://www.chioka.in/class-imbalance-problem/
+.https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2
