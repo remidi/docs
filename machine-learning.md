@@ -8,7 +8,9 @@ fraudulant cases (negative)
 flase positives.
 + Approaches: sampling, cost function, SMOTE
 
-+ References : 
+* References :
+	* http://www.chioka.in/class-imbalance-problem
+	* https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2
 
-> http://www.chioka.in/class-imbalance-problem
-> https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2
+
+
